@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-index-with-youtube:
+  update-index.html-with-youtube:
     name: Update this repo's index.html with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
