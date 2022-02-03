@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple website for my YT/Twich channel.
+A simple website for my YT channel.
 
 ## How to use the site
 
