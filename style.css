@@ -23,7 +23,7 @@
     display: grid;
     grid-gap: 50px;
     justify-content: center;
-    max-width: 100%;
+    width: fit-content;
   }
 
   .v2022_1 {
