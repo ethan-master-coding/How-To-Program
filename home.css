@@ -1,0 +1,12 @@
+.socials {
+  display: grid;
+  grid-template-columns: 0fr 1fr;
+}
+
+.YT {
+  grid-column: 1;
+}
+
+#twitch-embed {
+  grid-column: 2;
+}
