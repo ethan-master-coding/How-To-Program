@@ -1,0 +1,38 @@
+@media screen and (min-width: 600px) {
+    .videos_2022 {
+      display: grid;
+      grid-gap: 50px;
+      justify-content: center;
+      max-width: 100%;
+    }
+  
+    .v2022_1 {
+      grid-column: 1;
+      grid-row: 1;
+    }
+  
+    .v2022_2 {
+      grid-column: 2;
+      grid-row: 1;
+    }
+  
+    .v2022_3 {
+      grid-column: 3;
+      grid-row: 1;
+    }
+  
+    .v2022_4 {
+      grid-column: 1;
+      grid-row: 2;
+    }
+  
+    .v2022_5 {
+      grid-column: 2;
+      grid-row: 2;
+    }
+  
+    .v2022_6 {
+      grid-column: 3;
+      grid-row: 2;
+    }
+  }
