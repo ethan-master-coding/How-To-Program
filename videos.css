@@ -40,4 +40,8 @@
       grid-column: 1;
       grid-row: 3;
     }
+
+    .v2022_8 {
+      grid-area: 3 / 2;
+    }
   }
